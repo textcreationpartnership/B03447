@@ -1,0 +1,405 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Few words are best. Come buy this new ballad before you doe goe; if you raile at the author, I know what you know. To the tune of, I tell you but so.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640-1655?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03447</idno>
+            <idno type="STC">Wing F838C</idno>
+            <idno type="STC">ESTC R177033</idno>
+            <idno type="EEBO-CITATION">47012449</idno>
+            <idno type="OCLC">ocm 47012449</idno>
+            <idno type="VID">174416</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03447)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174416)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2687:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Few words are best. Come buy this new ballad before you doe goe; if you raile at the author, I know what you know. To the tune of, I tell you but so.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Gilbertson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[between 1640 and 1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains 3 illustrations.</note>
+                  <note>Date of publication taken from Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:174416:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <head>Few words are beſt.</head>
+            <argument>
+               <l>Come buy this new Ballad before you doe goe,</l>
+               <l>If you raile at the Author, I know what I know.</l>
+            </argument>
+            <opener>To the tune of, I tell you but ſo.</opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>IT is an old ſaying,</l>
+               <l>that few words are beſt,</l>
+               <l>And he that ſaye a little,</l>
+               <l>ſhall live moſt at reſt,</l>
+               <l>And I by experence,</l>
+               <l>doe find it right ſo,</l>
+               <l>Therefore Ile ſpare ſpeech,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but I know what I know.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Yet ſhall you perceive well,</l>
+               <l>though littele I ſay,</l>
+               <l>That many enormities,</l>
+               <l>I will diſplay,</l>
+               <l>You may gueſſe my meaning,</l>
+               <l>by that which I ſhow.</l>
+               <l>I will not tell all.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but I know, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>There be ſome great climbers.</l>
+               <l>compos'd of ambition.</l>
+               <l>To whom better borne men:</l>
+               <l>doe bend with ſubmiſſion,</l>
+               <l>Proud <hi>Lucifer</hi> climbing.</l>
+               <l>was caſt very low:</l>
+               <l>Ile not ſtay theſe men.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but I know, &amp;c</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>There be many Foxes,</l>
+               <l>that goe on two legs,</l>
+               <l>They ſteale greater matters.</l>
+               <l>then Cocks, Hens, and Egs,</l>
+               <l>To catch many Guls,</l>
+               <l>in ſhéep's clothing they goe:</l>
+               <l>They might be deſtroy'd.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but I know, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>There be many men,</l>
+               <l>that Devotion pretend.</l>
+               <l>And makes us beleeve,</l>
+               <l>that true fatih they'l defend,</l>
+               <l>Three times in one day,</l>
+               <l>to Church they will goe.</l>
+               <l>They cozon the world,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but I know. &amp;c,</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>There be many rich men,</l>
+               <l>both Yeoman and Gentry.</l>
+               <l>That for their owne private gain</l>
+               <l>hurt a whole Cuntry</l>
+               <l>By clothing free common.</l>
+               <l>yet they'l make as though.</l>
+               <l>Twere for commons good,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but I know, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>There be divers Papiſts,</l>
+               <l>that to ſave their Fine,</l>
+               <l>Come to Church once a month</l>
+               <l>to heare Service Divine,</l>
+               <l>The Pope gives them power,</l>
+               <l>as they ſay to doe ſo,</l>
+               <l>They ſave money by'to,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but I know, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>There be many upſtarts,</l>
+               <l>that ſpring from the, Cart,</l>
+               <l>What gotten to the Court,</l>
+               <l>play the Gentlemans part:</l>
+               <l>Their fathers were plain-men,</l>
+               <l>they ſcorne to be ſo,</l>
+               <l>They thinke themſelves brave,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but I know, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>There be many Officers,</l>
+               <l>men of greate place,</l>
+               <l>To whome if one ſue,</l>
+               <l>for their favour and grace,</l>
+               <l>He muſt bribe their ſervants,</l>
+               <l>while they make as though,</l>
+               <l>They know no ſuch thing,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but I know. &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <p>
+               <figure/>
+               <figure/>
+            </p>
+            <lg>
+               <l>THere be many woman,</l>
+               <l>that ſeeme very pure,</l>
+               <l>A kiſſe from a ſtranger,</l>
+               <l>they'l hardly endure:</l>
+               <l>They are like <hi>Lucrecia,</hi>
+               </l>
+               <l>modeſt in ſhow;</l>
+               <l>I will accuſe none,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but I know what I know.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Likewiſe there be many,</l>
+               <l>diſſembling men,</l>
+               <l>That ſéeme to hate Drinking,</l>
+               <l>and Whoring yet when</l>
+               <l>They méet with a Wench,</l>
+               <l>to the Taverne they'l goe;</l>
+               <l>They are civill all day,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but I know, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>There be many Batchelours,</l>
+               <l>that ſo beguile,</l>
+               <l>Beléeving kind Laſſes,</l>
+               <l>uſe many a wile,</l>
+               <l>They all ſwear that they love,</l>
+               <l>when they meane nothing ſo,</l>
+               <l>And boaſt of theſe tricks,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but I know, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>There's many an Vſurer,</l>
+               <l>that l<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke a Drone,</l>
+               <l>Doth idely live,</l>
+               <l>upon his moneys lone,</l>
+               <l>From tens unto hundreds,</l>
+               <l>his mony doth grow:</l>
+               <l>He ſayes he does good,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but I know, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>There be many Gallants,</l>
+               <l>that goe in gay rayment,</l>
+               <l>For which the Taylor,</l>
+               <l>did ne'r receive payment,</l>
+               <l>They rufle it out,</l>
+               <l>with a gorgeous ſhow,</l>
+               <l>Some take them for Knights,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but I know, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>There be many Rorers,</l>
+               <l>that ſwagger and rore,</l>
+               <l>As though they i' th'warre had, bin,</l>
+               <l>ſeven yeares and more.</l>
+               <l>And yet they ner lookt</l>
+               <l>in the face of a Foe:</l>
+               <l>They ſéeme gallant Sparkes,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but I know, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>There's many both women,</l>
+               <l>and men that appeare.</l>
+               <l>With beautifull out ſides,</l>
+               <l>the worlds eyes to bleare:</l>
+               <l>But all is not gold,</l>
+               <l>that doth gliſter in ſhow,</l>
+               <l>They are fine with a pox,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but I know, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>There is many rich Tradeſ<g ref="char:EOLhyphen"/>men</l>
+               <l>who live by deceit,</l>
+               <l>And in weight and meaſure,</l>
+               <l>the poore they doe cheat,</l>
+               <l>They'l not ſweare an oath,</l>
+               <l>but indéed I and no,</l>
+               <l>They truely proteſt,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but I know, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>There be many people.</l>
+               <l>ſo given to ſtrife,</l>
+               <l>That they'l goe to law,</l>
+               <l>for a two penny knife.</l>
+               <l>The Lawyer ne'r askes them,</l>
+               <l>why they doe ſo,</l>
+               <l>He gets by their Hate,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but I know, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I know there be many,</l>
+               <l>will carpe at this Ballad,</l>
+               <l>Becauſe it is like,</l>
+               <l>ſowre ſawce to their Pallat:</l>
+               <l>But he, ſhe or they,</l>
+               <l>let me tell ere I goe,</l>
+               <l>If they ſpeak againſt this ſong,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>I know what I know.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed for W. Gilbertſon, in Gilt-ſpur-ſtreet.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
